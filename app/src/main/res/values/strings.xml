@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">composeDemo</string>
+    <string name="menu">Hovedmeny</string>
+    <string name="basic_layout">Basic layout</string>
+    <string name="arrangment">Arrangment</string>
+    <string name="constraint_layout">ConstraintLayout</string>
+    <string name="mutable_state_of">MutableStateOf</string>
+    <string name="remember">Remember</string>
+    <string name="derived_state_of">DerivedStateOf</string>
+    <string name="padding">Padding</string>
+    <string name="onclick">OnClick</string>
+    <string name="remember_mutable_state_of">Remember MutableStateOf</string>
+    <string name="as_state">CollectAsState</string>
+    <string name="launched_effect">LaunchedEffect</string>
+    <string name="shared_state">Shared State</string>
+    <string name="list">List</string>
+</resources>
