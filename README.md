@@ -4,7 +4,7 @@ This is an Android App made with [Jetpack Compose](https://developer.android.com
 
 All code is in MainActivity.kt and with lof of new lines between @Compasables. This is done so you can show app and Android Studio at the same time if you present. Like this:
 
-[Demo View](./docs/images/side-by-side.png "Demo view")
+![Demo View](./docs/images/side-by-side.png "Demo view")
 
 Small presentation is also included. Look in [presentation](./docs/ "Presentation"). Presentation is built with [Marp](https://github.com/marp-team/marp-vscode "Marp VS-Code")
 
@@ -25,7 +25,7 @@ Small presentation is also included. Look in [presentation](./docs/ "Presentatio
 - NavHost
 
 
-##Screenshot:
+## Screenshot:
 ![Screenshot of main menu](./docs/images/screenshot.png) "Main menu"
 
 
